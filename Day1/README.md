@@ -10,7 +10,6 @@ public class Student {
     String name;
     String ID;
     int CGPA;
-
     void displayStudentInfo(){
         System.out.println("Name of the Student:"+name);
         System.out.println("Student ID:"+ID);
